@@ -16,7 +16,7 @@ Ministério das Cidades.
 
 ## Estrutura
 
-
+```
 pmrr-bayeux/
 ├── 00_config/        — parâmetros globais, AOI, datas e limiares
 ├── 10_extract/       — scripts GEE de coleta de fontes externas
@@ -29,7 +29,7 @@ pmrr-bayeux/
 │   ├── interim/      — produtos intermediários de processamento
 │   └── processed/    — produtos finais para o BDG
 └── docs/             — documentação metodológica do projeto
-
+```
 
 ## Pipeline ETL
 
