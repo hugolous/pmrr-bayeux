@@ -1,1 +1,15 @@
+# Sistema
+.DS_Store
+Thumbs.db
 
+# Credenciais
+*.env
+*.key
+
+# GeoTIFF grandes
+data/interim/*.tif
+data/processed/*.tif
+
+# Cache de IDE
+.vscode/
+.idea/
