@@ -2,7 +2,7 @@
 
 - Tipo: script executável GEE (análise + exports de navegação)
 - Caminho GEE: users/pmrrbayeux/pmrr:15_ROTEIRO_CAMPO
-- Destino no repositório: `20_transform/15_roteiro_campo.js`
+- Destino no repositório: `10_extract/15_roteiro_campo.js`
 - Depende de: 00_config (v3.0)
 - Data de execução: 2026-07-06 · Campo: 2026-07-13
 - Responsável: Uendry — Geoprocessamento e Dados
