@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Placemark>
+  <ExtendedData>
+    <Data name='NUM_SETOR'>
+      <value>PB_BAYEUX_SR_09_CPRM</value>
+    </Data>
+    <Data name='GRAU_RISCO'>
+      <value>Muito Alto</value>
+    </Data>
+    <Data name='LOCAL'>
+      <value>Bairro Baralho - Avenida Liberdade</value>
+    </Data>
+    <Data name='score_prior'>
+      <value>71.91682805656772</value>
+    </Data>
+    <Data name='NUM_PESS'>
+      <value>2000</value>
+    </Data>
+    <Data name='TIPOLO_G1'>
+      <value>Inundação</value>
+    </Data>
+    <Data name='system:index'>
+      <value>00000000000000000008</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-34.90401927698882,-7.122125234388034 -34.90395682999099,-7.122651415999022 -34.90362237590092,-7.122629153940668 -34.9035823153871,-7.122272385267752 -34.902026084301546,-7.12287437124094 -34.90182089633458,-7.121474229317101 -34.9011520541896,-7.120836596908848 -34.900050687689216,-7.1203014710061385 -34.89958248057087,-7.120230128692736 -34.898155539701236,-7.120404019804364 -34.89664836316095,-7.12088113978238 -34.89446342734902,-7.121278056375199 -34.8943965123286,-7.120426358345282 -34.894895974863,-7.120274693539059 -34.89486920899317,-7.11988229627162 -34.89575214141856,-7.119588024210487 -34.89590372879899,-7.119926916957222 -34.89756696380555,-7.11972181432122 -34.8975758854777,-7.120172182910249 -34.89873527414432,-7.119953636087706 -34.90000608062207,-7.119842177133739 -34.90002392345432,-7.120069640418197 -34.90044306061231,-7.120252407855013 -34.9011698967793,-7.120515499931623 -34.90170946509364,-7.12093023705152 -34.90251212027436,-7.1214653230330995 -34.902529962576594,-7.121603532594519 -34.902712761840725,-7.121594639695414 -34.90273506467361,-7.1218220672269235 -34.90283757345189,-7.122098507936279 -34.903617915379265,-7.121648160799019 -34.903782954429204,-7.121772971907128 -34.90401927698882,-7.122125234388034 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='NUM_SETOR'>
+      <value>PB_BAYEUX_SR_05_CPRM</value>
+    </Data>
+    <Data name='GRAU_RISCO'>
+      <value>Muito Alto</value>
+    </Data>
+    <Data name='LOCAL'>
+      <value>Bairro São Bento - Rua Alexandrino Santana</value>
+    </Data>
+    <Data name='score_prior'>
+      <value>67.39466374469306</value>
+    </Data>
+    <Data name='NUM_PESS'>
+      <value>56</value>
+    </Data>
+    <Data name='TIPOLO_G1'>
+      <value>Erosão</value>
+    </Data>
+    <Data name='system:index'>
+      <value>00000000000000000004</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-34.910230840310504,-7.120484297318539 -34.910016751790785,-7.120952508829646 -34.90971800316408,-7.1208677580557 -34.90975368474124,-7.120381713800427 -34.90935235023385,-7.120123115312463 -34.90934789001762,-7.120123151415754 -34.909223003819335,-7.120078534260532 -34.909165105036706,-7.120149865812118 -34.90905359926254,-7.120109716895085 -34.90883513169836,-7.119958159239909 -34.90893317287625,-7.119695045352204 -34.90953075876643,-7.120136510406075 -34.90952629855918,-7.120127601193565 -34.910230840310504,-7.120484297318539 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='NUM_SETOR'>
+      <value>PB_BAYEUX_SR_06_CPRM</value>
+    </Data>
+    <Data name='GRAU_RISCO'>
+      <value>Muito Alto</value>
+    </Data>
+    <Data name='LOCAL'>
+      <value>Bairro São Bento - Rua João Paredes</value>
+    </Data>
+    <Data name='score_prior'>
+      <value>66.58191793636192</value>
+    </Data>
+    <Data name='NUM_PESS'>
+      <value>32</value>
+    </Data>
+    <Data name='TIPOLO_G1'>
+      <value>Erosão</value>
+    </Data>
+    <Data name='system:index'>
+      <value>00000000000000000005</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-34.90848731602184,-7.119307125324073 -34.908442713374406,-7.119552337818359 -34.90843825311326,-7.119547866552846 -34.90829106420785,-7.119530056679787 -34.908286603937725,-7.119525585405293 -34.908273223109354,-7.119512240922764 -34.90817964144701,-7.119396285613338 -34.90816626060966,-7.119284819966922 -34.90797892863526,-7.119124278350421 -34.908063674109144,-7.118901348360146 -34.90829106420785,-7.119137641877234 -34.90848731602184,-7.119307125324073 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='NUM_SETOR'>
+      <value>PB_BAYEUX_SR_16_CPRM</value>
+    </Data>
+    <Data name='GRAU_RISCO'>
+      <value>Muito Alto</value>
+    </Data>
+    <Data name='LOCAL'>
+      <value>Bairro Mario Andreazza - Comunidade sem nome próximo a avenida Getúlio Vargas</value>
+    </Data>
+    <Data name='score_prior'>
+      <value>60.56887651075053</value>
+    </Data>
+    <Data name='NUM_PESS'>
+      <value>84</value>
+    </Data>
+    <Data name='TIPOLO_G1'>
+      <value>Deslizamento</value>
+    </Data>
+    <Data name='system:index'>
+      <value>0000000000000000000f</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-34.92798694636987,-7.141442088028636 -34.9279824871328,-7.141442056021662 -34.927978027886745,-7.141446532209942 -34.92796465017554,-7.141464399620094 -34.92788438381844,-7.141535746694569 -34.92756777690846,-7.1416516590555394 -34.92756331764444,-7.141651627048566 -34.927545480597345,-7.14166058485095 -34.92737602848375,-7.141687319728902 -34.92736710993774,-7.141687325073877 -34.92736265067372,-7.141687362425827 -34.92735373212771,-7.14168729841188 -34.927340354308704,-7.141687341108805 -34.927322517216695,-7.141691790688987 -34.92710401253412,-7.141727467433209 -34.927095093961164,-7.141727472778185 -34.92709063467918,-7.141727440771211 -34.92708171610622,-7.141727446107204 -34.92707279753327,-7.141731890351393 -34.92704604180542,-7.1417364146444555 -34.927014826786596,-7.141745276470835 -34.92680078061346,-7.141794371413338 -34.92679632131351,-7.141794339406364 -34.92678294340467,-7.141803259937647 -34.926765190332084,-7.141807702295373 -34.92674735312329,-7.1418166601786055 -34.926649248380606,-7.141861246943821 -34.92664032976273,-7.141865691223943 -34.9266358704538,-7.141865659216969 -34.92662695183593,-7.141865664552962 -34.92660019596435,-7.141870119514052 -34.926568980783834,-7.141874611827091 -34.926551143530126,-7.141874622499076 -34.926421823319465,-7.141874595873011 -34.9263370961802,-7.141794364047152 -34.92649317242413,-7.141522351960282 -34.92653330626744,-7.141446554506127 -34.9265288469585,-7.141446522472204 -34.92653330626744,-7.141437607330813 -34.92656452146591,-7.141352868199033 -34.92657344009277,-7.1413484240087435 -34.92658235871963,-7.141343979818455 -34.92658681802856,-7.141343942493454 -34.92660019596435,-7.141339530337088 -34.92665816699848,-7.141317197446574 -34.92666262630741,-7.141312790590267 -34.926671544925284,-7.1413082770500385 -34.926676004234224,-7.141303870193732 -34.92671613798769,-7.141250337007786 -34.92672505659658,-7.141241384604277 -34.926733975205465,-7.141236940431955 -34.926738434514405,-7.1412235864722 -34.926778484104716,-7.141196832639795 -34.92682753641318,-7.141187891150817 -34.92683645501308,-7.141187885868723 -34.92686321080381,-7.141187939363398 -34.92686767009478,-7.141192340919645 -34.926907803767406,-7.1412012989016915 -34.92691226305838,-7.141205769807877 -34.92691672235833,-7.141205732482877 -34.92693010024022,-7.141228022936978 -34.92693455953118,-7.141236932715426 -34.926943478122105,-7.141250313391078 -34.926943478122105,-7.141259260494526 -34.92697915245885,-7.141375204952303 -34.92697915245885,-7.141384082705812 -34.92697915245885,-7.141388590945981 -34.92697915245885,-7.141393029827228 -34.92698361174981,-7.141406378504889 -34.92698807104078,-7.141428674303965 -34.92700144891369,-7.141459911924396 -34.92700590820466,-7.1414643828305815 -34.927014826786596,-7.141468816402784 -34.92701928607757,-7.141468848418741 -34.927037123232466,-7.14147778492207 -34.92704158252343,-7.141482186469332 -34.92706387896031,-7.14150003275111 -34.92707279753327,-7.141504535682236 -34.92707725681525,-7.141513445469668 -34.927126308953035,-7.1415624867019005 -34.92713076823502,-7.141566957608086 -34.92721549458378,-7.141571380553219 -34.92722441313876,-7.141571375217226 -34.92723333170274,-7.141571369890216 -34.92724670953073,-7.1415669576889345 -34.92726454664071,-7.141566947025932 -34.9272779244687,-7.141562465465727 -34.92737602848375,-7.1415178793383145 -34.92738494702077,-7.141517874011305 -34.92739386556678,-7.141513429803049 -34.92741170264082,-7.141508980276767 -34.927429539714865,-7.141504530741502 -34.92755885838042,-7.141446505476079 -34.92771939163361,-7.14140195167005 -34.92789776154762,-7.141397475562619 -34.927973568649676,-7.14140197309487 -34.92798694636987,-7.141442088028636 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='NUM_SETOR'>
+      <value>PB_BAYEUX_SR_03_CPRM</value>
+    </Data>
+    <Data name='GRAU_RISCO'>
+      <value>Muito Alto</value>
+    </Data>
+    <Data name='LOCAL'>
+      <value>Bairro Sesi - Rua Izaildo do Nascimento</value>
+    </Data>
+    <Data name='score_prior'>
+      <value>56.967639164134354</value>
+    </Data>
+    <Data name='NUM_PESS'>
+      <value>40</value>
+    </Data>
+    <Data name='TIPOLO_G1'>
+      <value>Erosão</value>
+    </Data>
+    <Data name='system:index'>
+      <value>00000000000000000002</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-34.91947004618246,-7.121661476760038 -34.91937639271777,-7.121772973039005 -34.91909105614487,-7.121683832315047 -34.91897956341425,-7.121661511605687 -34.918814553900916,-7.12150545596012 -34.91887698997523,-7.121429646046332 -34.919122274083215,-7.121572289647078 -34.91920254872278,-7.121585711833879 -34.91930503763032,-7.121576771351013 -34.91947004618246,-7.121661476760038 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='NUM_SETOR'>
+      <value>PB_BAYEUX_SR_01_CPRM</value>
+    </Data>
+    <Data name='GRAU_RISCO'>
+      <value>Muito Alto</value>
+    </Data>
+    <Data name='LOCAL'>
+      <value>Jardim São Severino - Rua Flavio Maroja</value>
+    </Data>
+    <Data name='score_prior'>
+      <value>55.11227376598827</value>
+    </Data>
+    <Data name='NUM_PESS'>
+      <value>540</value>
+    </Data>
+    <Data name='TIPOLO_G1'>
+      <value>Inundação</value>
+    </Data>
+    <Data name='system:index'>
+      <value>00000000000000000000</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-34.92999795498485,-7.120395156774243 -34.92995790691269,-7.120658236058843 -34.92965914434413,-7.120604726085365 -34.92923998314722,-7.120551158260382 -34.9289635139972,-7.120417388739035 -34.9283659808022,-7.120363887398367 -34.928339225487576,-7.120551159607855 -34.92798694636987,-7.120381746400288 -34.92761236950375,-7.120154345360096 -34.92721995386576,-7.120091887825028 -34.92676073103213,-7.120198927606787 -34.92635493347882,-7.120252430905783 -34.926082914259325,-7.120395114364778 -34.92586440637875,-7.120622502918388 -34.925779678682524,-7.120841037155534 -34.925614682401374,-7.121425198900585 -34.92546306391229,-7.121581258714335 -34.92531590453451,-7.121500992042827 -34.925382795192625,-7.120974827643559 -34.925587926215385,-7.120586831644905 -34.925846568981314,-7.120158815269153 -34.9263370961802,-7.119904601179613 -34.92724670953073,-7.119757495682784 -34.927491969438094,-7.119730746494669 -34.92805829415401,-7.119761906024553 -34.92816531572692,-7.119695031823575 -34.92816977495501,-7.119695064809712 -34.928174234183096,-7.11969502847286 -34.92830355171678,-7.119699520965561 -34.9284194914045,-7.119610319542439 -34.92927565652276,-7.119779783603635 -34.929712654137944,-7.119797573453246 -34.92999795498485,-7.120395156774243 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='NUM_SETOR'>
+      <value>PB_BAYEUX_SR_15_CPRM</value>
+    </Data>
+    <Data name='GRAU_RISCO'>
+      <value>Muito Alto</value>
+    </Data>
+    <Data name='LOCAL'>
+      <value>Bairro Manguinhos - Rua do Manguinhos</value>
+    </Data>
+    <Data name='score_prior'>
+      <value>52.92903347711423</value>
+    </Data>
+    <Data name='NUM_PESS'>
+      <value>472</value>
+    </Data>
+    <Data name='TIPOLO_G1'>
+      <value>Inundação</value>
+    </Data>
+    <Data name='system:index'>
+      <value>0000000000000000000e</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-34.92427694699728,-7.138450034061927 -34.923220138776536,-7.139328500872215 -34.92227926548244,-7.139047531360253 -34.92154352255533,-7.138753264015275 -34.92097723847919,-7.138387599388983 -34.92058487629097,-7.1381779974420665 -34.92064276729418,-7.138013005329103 -34.920303919283555,-7.1378123899126935 -34.92053582037128,-7.1373085225342106 -34.921151162981204,-7.137535899221075 -34.921133324586634,-7.137674137312988 -34.92113778418303,-7.137674169589457 -34.92116008217399,-7.138017510784494 -34.922872382047466,-7.138672983321065 -34.923844464970486,-7.13799962772569 -34.92427694699728,-7.138450034061927 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='NUM_SETOR'>
+      <value>PB_BAYEUX_SR_10_CPRM</value>
+    </Data>
+    <Data name='GRAU_RISCO'>
+      <value>Muito Alto</value>
+    </Data>
+    <Data name='LOCAL'>
+      <value>Bairro São Bento - Rua São José</value>
+    </Data>
+    <Data name='score_prior'>
+      <value>52.11192111851041</value>
+    </Data>
+    <Data name='NUM_PESS'>
+      <value>92</value>
+    </Data>
+    <Data name='TIPOLO_G1'>
+      <value>Inundação</value>
+    </Data>
+    <Data name='system:index'>
+      <value>00000000000000000009</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-34.907484003311694,-7.126695850561124 -34.90747954299665,-7.126704764157413 -34.907336812762374,-7.127016909755209 -34.906587727535644,-7.1265665152408015 -34.9058474723529,-7.12620530845919 -34.90561115487775,-7.126067132719341 -34.905602234050015,-7.126062628045483 -34.90567806106773,-7.125919974141061 -34.90638709511413,-7.126254388911868 -34.90700683231835,-7.126521914560681 -34.907265531705086,-7.126615581419249 -34.907484003311694,-7.126695850561124 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='NUM_SETOR'>
+      <value>PB_BAYEUX_SR_07_CPRM</value>
+    </Data>
+    <Data name='GRAU_RISCO'>
+      <value>Muito Alto</value>
+    </Data>
+    <Data name='LOCAL'>
+      <value>Bairro São Bento - Avenida Antônio Venâncio</value>
+    </Data>
+    <Data name='score_prior'>
+      <value>50.70190633391059</value>
+    </Data>
+    <Data name='NUM_PESS'>
+      <value>100</value>
+    </Data>
+    <Data name='TIPOLO_G1'>
+      <value>Inundação</value>
+    </Data>
+    <Data name='system:index'>
+      <value>00000000000000000006</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-34.90829106420785,-7.118847787856432 -34.908148419493195,-7.118959258578331 -34.90807259467636,-7.118892400367365 -34.90802353152523,-7.118749742061198 -34.907876426064334,-7.118682828900286 -34.907724775882684,-7.118615958786644 -34.90752860646218,-7.118540149411844 -34.90710495976146,-7.118611450259014 -34.90702913401936,-7.118424211206342 -34.907394796947834,-7.118272595052875 -34.9076667919218,-7.1183439095274865 -34.90798784922044,-7.118531253611182 -34.90829106420785,-7.118847787856432 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='NUM_SETOR'>
+      <value>PB_BAYEUX_SR_12_CPRM</value>
+    </Data>
+    <Data name='GRAU_RISCO'>
+      <value>Muito Alto</value>
+    </Data>
+    <Data name='LOCAL'>
+      <value>Bairro Jardim São Vicente - Rua Imaculada Conceição</value>
+    </Data>
+    <Data name='score_prior'>
+      <value>49.21636228765923</value>
+    </Data>
+    <Data name='NUM_PESS'>
+      <value>48</value>
+    </Data>
+    <Data name='TIPOLO_G1'>
+      <value>Inundação</value>
+    </Data>
+    <Data name='system:index'>
+      <value>0000000000000000000b</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-34.9215390629769,-7.131979848967948 -34.92153014382004,-7.132354412494091 -34.92118238016496,-7.132349996798363 -34.92104859216526,-7.132394584632574 -34.9209237231787,-7.132385629507169 -34.92088804629075,-7.13210026934451 -34.92109764778851,-7.132073503339933 -34.92116008217399,-7.132055650311808 -34.9215390629769,-7.131979848967948 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='NUM_SETOR'>
+      <value>PB_BAYEUX_SR_13_CPRM</value>
+    </Data>
+    <Data name='GRAU_RISCO'>
+      <value>Muito Alto</value>
+    </Data>
+    <Data name='LOCAL'>
+      <value>Bairro Jardim São Vicente - Rua São Vicente</value>
+    </Data>
+    <Data name='score_prior'>
+      <value>49.058651704701425</value>
+    </Data>
+    <Data name='NUM_PESS'>
+      <value>64</value>
+    </Data>
+    <Data name='TIPOLO_G1'>
+      <value>Inundação</value>
+    </Data>
+    <Data name='system:index'>
+      <value>0000000000000000000c</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-34.92629250292016,-7.130472688947681 -34.92607399557857,-7.130579688772376 -34.925882243776186,-7.130686745595176 -34.92560130431288,-7.130668885703922 -34.92553441382544,-7.130414733346609 -34.92573508512604,-7.130267591935134 -34.92599372743383,-7.130272045225357 -34.92615872297836,-7.130289891875444 -34.92626574694977,-7.130347812496119 -34.92629250292016,-7.130472688947681 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='NUM_SETOR'>
+      <value>PB_BAYEUX_SR_11_CPRM</value>
+    </Data>
+    <Data name='GRAU_RISCO'>
+      <value>Muito Alto</value>
+    </Data>
+    <Data name='LOCAL'>
+      <value>Bairro São Bento - Rua Sanhauá</value>
+    </Data>
+    <Data name='score_prior'>
+      <value>48.62381408528764</value>
+    </Data>
+    <Data name='NUM_PESS'>
+      <value>160</value>
+    </Data>
+    <Data name='TIPOLO_G1'>
+      <value>Inundação</value>
+    </Data>
+    <Data name='system:index'>
+      <value>0000000000000000000a</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-34.909512917928446,-7.12710161469711 -34.909321128702246,-7.127427127361081 -34.90881729070766,-7.127239816838445 -34.90850069681427,-7.126981212870758 -34.908518537858875,-7.126958943661815 -34.908652261449355,-7.126673513071236 -34.90892871263307,-7.126798385713942 -34.90903129809154,-7.126477349885038 -34.9093300491437,-7.126637894654625 -34.90941479326113,-7.126655719736162 -34.90933450935993,-7.1268474397920825 -34.90928098672021,-7.126972294666112 -34.909512917928446,-7.12710161469711 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='NUM_SETOR'>
+      <value>PB_BAYEUX_SR_02_CPRM</value>
+    </Data>
+    <Data name='GRAU_RISCO'>
+      <value>Muito Alto</value>
+    </Data>
+    <Data name='LOCAL'>
+      <value>Bairro Sesi - Rua Porto do Moinho</value>
+    </Data>
+    <Data name='score_prior'>
+      <value>48.325634480626675</value>
+    </Data>
+    <Data name='NUM_PESS'>
+      <value>200</value>
+    </Data>
+    <Data name='TIPOLO_G1'>
+      <value>Inundação</value>
+    </Data>
+    <Data name='system:index'>
+      <value>00000000000000000001</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-34.92379987038993,-7.121777443675697 -34.92374189741544,-7.122036053311753 -34.922943734134535,-7.1220851315276255 -34.92204745329199,-7.122098468158878 -34.921695148042296,-7.122107442912472 -34.92143649262809,-7.122281301469155 -34.92122251651456,-7.122642488990886 -34.92094602122357,-7.122531029560811 -34.921387437202476,-7.122129713253293 -34.92171298632008,-7.121915649284529 -34.92252453975386,-7.121906750420611 -34.92349662665642,-7.121790802989411 -34.92379987038993,-7.121777443675697 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='NUM_SETOR'>
+      <value>PB_BAYEUX_SR_14_CPRM</value>
+    </Data>
+    <Data name='GRAU_RISCO'>
+      <value>Muito Alto</value>
+    </Data>
+    <Data name='LOCAL'>
+      <value>Jardim São Severino - Avenida Liberdade</value>
+    </Data>
+    <Data name='score_prior'>
+      <value>47.847058857197226</value>
+    </Data>
+    <Data name='NUM_PESS'>
+      <value>56</value>
+    </Data>
+    <Data name='TIPOLO_G1'>
+      <value>Inundação</value>
+    </Data>
+    <Data name='system:index'>
+      <value>0000000000000000000d</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-34.933819429813454,-7.1238018780078525 -34.93326206150753,-7.124109570342374 -34.93314612843141,-7.123931161414536 -34.93354297559344,-7.123623540379297 -34.93371241538215,-7.123552195137387 -34.93380159408688,-7.12365920304692 -34.933819429813454,-7.1238018780078525 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='NUM_SETOR'>
+      <value>PB_BAYEUX_SR_08_CPRM</value>
+    </Data>
+    <Data name='GRAU_RISCO'>
+      <value>Muito Alto</value>
+    </Data>
+    <Data name='LOCAL'>
+      <value>Bairro Baralho - Avenida São Paulo</value>
+    </Data>
+    <Data name='score_prior'>
+      <value>44.32510397113879</value>
+    </Data>
+    <Data name='NUM_PESS'>
+      <value>512</value>
+    </Data>
+    <Data name='TIPOLO_G1'>
+      <value>Inundação</value>
+    </Data>
+    <Data name='system:index'>
+      <value>00000000000000000007</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-34.90386324357656,-7.118294890986698 -34.903586775908764,-7.118620402572691 -34.90307398280673,-7.118022878073378 -34.90261016874657,-7.117799915806635 -34.90252550200103,-7.117813281174994 -34.90180313804279,-7.117893554368272 -34.90112975094349,-7.118027322146887 -34.90114313289475,-7.1185892050081385 -34.9009915548568,-7.118932512920595 -34.90041629649419,-7.119128745214188 -34.89940859605287,-7.119159924578874 -34.89939967457836,-7.119124281413677 -34.89925247001532,-7.118700632664801 -34.89929707748671,-7.118700689662906 -34.89986788270282,-7.1189013103075105 -34.90061694301028,-7.11878094723448 -34.90073292052606,-7.117844513836725 -34.90149543926734,-7.117545756226867 -34.90252104142547,-7.117420891094077 -34.903122964651345,-7.1175635631624345 -34.90386324357656,-7.118294890986698 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='NUM_SETOR'>
+      <value>PB_BAYEUX_SR_18_CPRM</value>
+    </Data>
+    <Data name='GRAU_RISCO'>
+      <value>Alto</value>
+    </Data>
+    <Data name='LOCAL'>
+      <value>Bairro Aeroporto  - Rua São Marcos</value>
+    </Data>
+    <Data name='score_prior'>
+      <value>42.98090136530238</value>
+    </Data>
+    <Data name='NUM_PESS'>
+      <value>256</value>
+    </Data>
+    <Data name='TIPOLO_G1'>
+      <value>Erosão</value>
+    </Data>
+    <Data name='system:index'>
+      <value>00000000000000000011</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-34.9350992177103,-7.135364348163148 -34.9350724645157,-7.135475799481436 -34.93491194519538,-7.1357165846198605 -34.934778178863056,-7.135908329379452 -34.932914261821026,-7.134699920671854 -34.933386912321176,-7.134329779731517 -34.934078047462485,-7.134802503821656 -34.9350992177103,-7.135364348163148 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='NUM_SETOR'>
+      <value>PB_BAYEUX_SR_17_CPRM</value>
+    </Data>
+    <Data name='GRAU_RISCO'>
+      <value>Alto</value>
+    </Data>
+    <Data name='LOCAL'>
+      <value>Bairro Aeroporto  - Rua Antônio L. de Medeiros</value>
+    </Data>
+    <Data name='score_prior'>
+      <value>42.179031919663956</value>
+    </Data>
+    <Data name='NUM_PESS'>
+      <value>4</value>
+    </Data>
+    <Data name='TIPOLO_G1'>
+      <value>Colapso</value>
+    </Data>
+    <Data name='system:index'>
+      <value>00000000000000000010</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-34.93568332694882,-7.137353081523519 -34.93563873859359,-7.137455670745933 -34.93548267918408,-7.137361970227491 -34.935531726461974,-7.137241591173432 -34.93568332694882,-7.137353081523519 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='NUM_SETOR'>
+      <value>PB_BAYEUX_SR_04_CPRM</value>
+    </Data>
+    <Data name='GRAU_RISCO'>
+      <value>Muito Alto</value>
+    </Data>
+    <Data name='LOCAL'>
+      <value>Bairro Sesi - Travessa José Heleno</value>
+    </Data>
+    <Data name='score_prior'>
+      <value>40.3153702751354</value>
+    </Data>
+    <Data name='NUM_PESS'>
+      <value>200</value>
+    </Data>
+    <Data name='TIPOLO_G1'>
+      <value>Inundação</value>
+    </Data>
+    <Data name='system:index'>
+      <value>00000000000000000003</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-34.918868070539894,-7.12054669910416 -34.9188413122249,-7.120622563878063 -34.918065401650885,-7.12047985740423 -34.917615048827294,-7.120684938390832 -34.917343085725555,-7.120586878348317 -34.916776773630964,-7.120600209535779 -34.916758934311126,-7.120573450924338 -34.916750014660195,-7.120435261583996 -34.91717361322918,-7.1201587729585025 -34.9183240673508,-7.1202301506655274 -34.91872535943974,-7.12037285152489 -34.918868070539894,-7.12054669910416 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='NUM_SETOR'>
+      <value>PB_BAYEUX_SR_19_CPRM</value>
+    </Data>
+    <Data name='GRAU_RISCO'>
+      <value>Alto</value>
+    </Data>
+    <Data name='LOCAL'>
+      <value>Bairro Alto da Boa Vista - Rua Marechal Rondon</value>
+    </Data>
+    <Data name='score_prior'>
+      <value>40.145824435640456</value>
+    </Data>
+    <Data name='NUM_PESS'>
+      <value>24</value>
+    </Data>
+    <Data name='TIPOLO_G1'>
+      <value>Deslizamento</value>
+    </Data>
+    <Data name='system:index'>
+      <value>00000000000000000012</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-34.93700321558605,-7.134124718148525 -34.936940792860696,-7.13421836354634 -34.93670893663484,-7.134057826933455 -34.93682040605418,-7.1339864480406545 -34.93700321558605,-7.134124718148525 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='NUM_SETOR'>
+      <value>PB_BAYEUX_SR_20_CPRM</value>
+    </Data>
+    <Data name='GRAU_RISCO'>
+      <value>Alto</value>
+    </Data>
+    <Data name='LOCAL'>
+      <value>Bairro Alto da Boa Vista - Rua Santa Maria</value>
+    </Data>
+    <Data name='score_prior'>
+      <value>36.320964934100466</value>
+    </Data>
+    <Data name='NUM_PESS'>
+      <value>120</value>
+    </Data>
+    <Data name='TIPOLO_G1'>
+      <value>Deslizamento</value>
+    </Data>
+    <Data name='system:index'>
+      <value>00000000000000000013</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-34.94337976572962,-7.1310969633268115 -34.94336193201527,-7.13150271168838 -34.94335747358669,-7.131516130165139 -34.94333963986336,-7.131752429368563 -34.943241554326654,-7.13179255798367 -34.943116633902555,-7.131614236964964 -34.94308096635709,-7.1313957162384805 -34.94329059710399,-7.131172792608277 -34.94293383756694,-7.130593089956566 -34.942902628396155,-7.130236355823873 -34.94290708684271,-7.129937566503485 -34.94274212389804,-7.129540763071443 -34.94274212389804,-7.129380191307481 -34.94303638190054,-7.129340103421988 -34.943107717018435,-7.130026795010813 -34.94303638190054,-7.130379040315931 -34.94325492963038,-7.130847223808584 -34.94337976572962,-7.1310969633268115 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+</Document>
+</kml>
